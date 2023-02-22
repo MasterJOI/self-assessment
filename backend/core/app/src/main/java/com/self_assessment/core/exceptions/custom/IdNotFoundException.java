@@ -1,4 +1,4 @@
-package com.detectionpivot.core.exceptions.custom;
+package com.self_assessment.core.exceptions.custom;
 
 import lombok.Getter;
 

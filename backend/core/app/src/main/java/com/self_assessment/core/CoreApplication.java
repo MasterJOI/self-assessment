@@ -1,4 +1,4 @@
-package com.detectionpivot.core;
+package com.self_assessment.core;
 
 import com.corundumstudio.socketio.Configuration;
 import com.corundumstudio.socketio.SocketIOServer;
@@ -18,9 +18,9 @@ import java.util.concurrent.Executor;
 @SpringBootApplication
 @EnableCaching
 @EnableAsync
-@ComponentScan("com.detectionpivot")
-@EntityScan("com.detectionpivot.data")
-@EnableJpaRepositories("com.detectionpivot.data")
+@ComponentScan("com.self_assessment")
+@EntityScan("com.self_assessment.data")
+@EnableJpaRepositories("com.self_assessment.data")
 public class CoreApplication {
 
 	@Value("${socket.host}")

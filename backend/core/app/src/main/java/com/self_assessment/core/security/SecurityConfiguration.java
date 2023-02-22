@@ -1,4 +1,4 @@
-package com.detectionpivot.core.security;
+package com.self_assessment.core.security;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

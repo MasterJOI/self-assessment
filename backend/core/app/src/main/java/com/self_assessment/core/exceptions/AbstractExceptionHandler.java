@@ -1,4 +1,4 @@
-package com.detectionpivot.core.exceptions;
+package com.self_assessment.core.exceptions;
 
 import org.springframework.http.HttpStatus;
 

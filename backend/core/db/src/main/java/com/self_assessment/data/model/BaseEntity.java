@@ -1,4 +1,4 @@
-package com.detectionpivot.data.model;
+package com.self_assessment.data.model;
 
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
